@@ -1,10 +1,4 @@
-//
-//  DemoDVRUITests.swift
-//  DemoDVRUITests
-//
-//  Created by jeremias on 6/17/19.
-//  Copyright © 2019 virtus. All rights reserved.
-//
+
 
 import XCTest
 
