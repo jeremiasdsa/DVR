@@ -1,0 +1,16 @@
+PODS:
+  - EZOpenSDK (4.8.6)
+
+DEPENDENCIES:
+  - EZOpenSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EZOpenSDK
+
+SPEC CHECKSUMS:
+  EZOpenSDK: 53b5b0936da53dc006c3e313e119a85268223d9d
+
+PODFILE CHECKSUM: 7bbb94c0486afe7d5768ec8384432a883daea726
+
+COCOAPODS: 1.6.1
